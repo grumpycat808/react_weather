@@ -1,0 +1,6 @@
+* Search bar needs to have the ability to modify the state of the application by calling the API
+* Must be able to call the action creator
+
+                   <Sparklines height={120} width={180} data={temps}>
+                        <SparklinesLine color="red"/>
+                    </Sparklines>
